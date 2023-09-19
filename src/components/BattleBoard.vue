@@ -4,7 +4,7 @@
       <div class="title">BATTLESHIP</div>
       <div class="boards-container">
         <PlayBoard
-          title="Player"
+        git reset --hard step8git reset --hard step8          title="Player"
           :rows-count="10"
           :columns-count="10"
           :board-cells="playerAssets.boardCells"
